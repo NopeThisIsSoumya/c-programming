@@ -17,5 +17,6 @@ int main(){
         printf("you can not vote");
 
      }
+    
 
-}
+     }
