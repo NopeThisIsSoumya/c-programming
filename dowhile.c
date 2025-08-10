@@ -5,7 +5,7 @@ int main(){
     scanf("%d",&num);
 
     do{
-        printf("%d x %d = %d\n" ,num , i ,i*25);
+        printf("%d x %d = %d\n" ,num , i ,i*3);
         i=i+1;
         
 
